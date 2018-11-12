@@ -1,0 +1,1 @@
+My host machine continued to print out that the session.json file did not exist on my admin VM despite it appearing when I SSHed into it. I included a screenshot of some of the json file output in place of the actual file since SCP was not working properly.
